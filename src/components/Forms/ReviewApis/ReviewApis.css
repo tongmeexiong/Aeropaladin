@@ -1,0 +1,42 @@
+.review.div.big {
+    border: solid;
+    border-width: 2px;
+    border-color: black;
+    min-height: 100px;
+    max-width: 900px; 
+    min-width: 500px;
+    background-color: lightgray;
+    margin-top: 40px;
+    margin-left: 150px;
+    display: grid;
+    padding-bottom: 40px;
+    padding-top: 25px;
+}
+
+.listItem {
+    margin-top: 20px;
+    margin-left: 30px;
+    font-size: 16px;
+    align-self: center;
+}
+
+.ui.header.middle.aligned.center.aligned.grid {
+    margin-top: 30px;
+    text-decoration: underline;
+}
+
+.subHeadBtn {
+    -moz-box-flexgroup: inherit;
+    display: inline;
+}
+
+.departuresubhead{
+    margin-bottom: -10px;
+    text-decoration: underline;
+    font-size: 18px;
+    font-weight: 600;
+}
+.arrivalsubhead {
+    margin-bottom: -10px;
+    text-decoration: underline;
+}

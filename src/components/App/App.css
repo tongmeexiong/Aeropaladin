@@ -1,0 +1,83 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+}
+
+.login {
+        background-color: #525460;
+
+}
+.alert {
+    background-color: #ff4545;
+    margin: 50px;
+}
+
+
+
+form {
+    background-color: #525460;
+    width: 500px;
+    height: 350px;
+    margin: 20px auto;
+    padding: 25px;
+    margin-top: 60px;
+    border-radius: 7px;
+}
+
+input {
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+.log-in, .log-out, .register {
+  background-color: #dbd5d5;
+  border-radius: 4px;
+  color: #f8f8f8;
+  min-height: 50px;
+  min-width: 100px;
+  outline:0;
+  cursor: pointer;
+}
+
+.ui.button.log-in:hover, .ui.button.og-out:hover, .ui.button.register:hover {
+  background-color: #21ba45;
+  color: white;
+}
+
+/* This line makes the "Register" and "Login" buttons look like links */
+.link-button {
+    background:none;
+    color:inherit;
+    border:none;
+    padding:0;
+    font: inherit;
+    color: #21ba45;
+    outline:0;
+    border-bottom:1px solid #444; 
+    cursor: pointer;
+}
+ 
+.labelLogin {
+    color: white;    
+}
+
+.ui.input.username {
+    width:450px;
+    padding-bottom: 20px;
+    padding-top: 25px;
+}
+.ui.input.password {
+    padding-bottom: 20px;
+    padding-top: 15px;
+    width: 450px;
+}
+
+.header {
+    color: white;
+    margin-bottom: -20px;
+}
+.headerTwo {
+    color: white;
+    margin-top: -1px;
+    margin-bottom: -10px;
+}

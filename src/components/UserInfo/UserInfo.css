@@ -1,0 +1,25 @@
+.userButtons {
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center
+}
+
+.ui.green.button {
+    margin:10px;
+    min-width: 150px;
+}
+
+.ui.centered.card {
+    min-width: 400px;
+    margin-top: 40px;
+}
+.header.One{
+    margin-bottom: -5px;
+}

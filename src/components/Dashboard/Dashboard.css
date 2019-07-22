@@ -1,0 +1,38 @@
+.pendingTable {
+    text-align: left;
+    padding: 30px;
+    min-width: 800px;
+    margin-top: 300px;
+}
+.submittedTable {
+    text-align: left;
+    padding: 30px;
+    min-width: 800px;
+    margin-top: 300px;
+}
+.historicTable {
+    text-align: left;
+    padding: 30px;
+    min-width: 800px;
+    margin-top: 300px;
+    margin-bottom: 30px;
+}
+
+.ui.header.welcome {
+   text-align: center;
+   margin-top: 60px;
+}
+
+.ui.header.center.aligned.middle.aligned.grid {
+    margin-bottom: 60px;
+    padding-top: 30px;
+}
+
+.ui.header.pendingTable {
+    margin-left: 320px;
+    margin-bottom: 25px;
+}
+.ui.header.submittedTable {
+    margin-left: 320px;
+    margin-bottom: 25px;
+}

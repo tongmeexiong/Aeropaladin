@@ -1,0 +1,114 @@
+.ui.form.reg {
+    align-self: center;
+    background-color: transparent;
+    margin-top: 30px;
+    width: 700px;
+}
+
+.ui.segment {
+    /* position: relative; */
+    background: #DADADA;
+    width: 50rem;
+    box-shadow: 0px 1px 2px 0 rgba(34, 36, 38, 0.15);
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(34, 36, 38, 0.15);
+    padding-top: 40px;
+}
+
+registrationDiv {
+    cursor: pointer;
+    border-radius: 5px;
+    transition: color 0.2 ease;
+    font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    /* background-color: #DADADA */
+}
+
+.column{
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    vertical-align: middle;
+    align-self: center !important;
+}
+
+.userNameIn {
+    width: 48rem;
+}
+
+.ui.corner.labeled.input.userNameIn {
+    margin-top: 30px;
+}
+
+.firstNameIn{
+    width: 48rem;
+}
+
+.middleNameIn {
+    width: 48rem;
+}
+
+.lastNameIn {
+    width: 48rem;
+}
+
+.passwordIn {
+    width: 48rem;
+}
+
+.emailIn {
+    width: 48rem;
+}
+
+.phoneNumberIn {
+    width: 48rem;
+}
+
+.streetAddrIn {
+    width: 48rem;
+}
+
+#regSubmitBtn {
+    background-color: #21ba45;
+    color: white;
+    margin-bottom: 40px;
+}
+
+
+#bigHead {
+    margin-top: 30px;
+    font-weight: 500;
+}
+#littlehead{
+    margin-top: -30px;
+}
+
+.ui.middle.aligned.center.aligned.grid.addHead {
+    padding-top: 25px;
+}
+.ui.corner.labeled.input.streetAddrIn {
+    margin-top: 25px;
+}
+.ui.select.state{
+    margin-bottom: 15px;
+ }
+
+.cityIn {
+    width: 48rem;
+}
+.zipIn {
+    width: 48rem;
+}
+.genderIn{
+    width: 48rem;
+}
+.resCountryIn {
+    width: 48rem;
+}
+.birthdayIn {
+    width: 48rem;
+}
+.countryIn {
+    width: 48rem;
+}

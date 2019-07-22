@@ -1,0 +1,28 @@
+.formInputs{
+    display: block;
+}
+
+.formInput{
+    width: 80%;
+}
+
+.formAltInput{
+    display:inline-block;
+    width:80%;
+}
+/* .formDateInput input{
+    width:100%;
+} */
+
+.formInputLabel{
+    display: block !important;
+    /* width: 40%; */
+    margin-bottom: 10px !important;
+}
+h2 {
+    text-align: center;
+}
+
+span{
+    margin-left: 10px;
+}
